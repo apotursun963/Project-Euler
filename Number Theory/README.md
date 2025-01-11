@@ -1,2 +1,0 @@
-# Number Theory
-**Sayı Teorisi, matematiğin bir dalıdır ve sayılar arasındaki ilişkileri, özellikleri ve yapılarını inceler. Özellikle asal sayılar, bölme işlemleri, modüler aritmetik, sayısal diziler gibi konular üzerinde yoğunlaşır.**
